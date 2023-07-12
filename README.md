@@ -1,2 +1,2 @@
-# pricing-mentor-fronted-chalenges
+# Pricing-mentor-fronted-chalenges
 Frontend Practices
