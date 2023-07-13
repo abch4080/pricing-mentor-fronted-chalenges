@@ -1,2 +1,2 @@
- # pricing-mentor-fronted-chalenges
-Price card
+ # pricing-card-fronted-mentor-chalenge
+An implimentation of frontend mentor chalenge
