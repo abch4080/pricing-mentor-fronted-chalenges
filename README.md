@@ -1,12 +1,10 @@
-# pricing-mentor-fronted-chalenges
-Frontend Practices
-
 <html>
   <head>
     <title>Price Card</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300&family=Karla:wght@400;700&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="./style.css" rel="stylesheet">
   </head>
   <body>
